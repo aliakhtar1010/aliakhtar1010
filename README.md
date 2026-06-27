@@ -1,65 +1,44 @@
-# Hey, I'm Ali
+# hey, i'm ali 
 
-I'm a Software Engineering student at the University of New Brunswick passionate about learning through hands-on projects and continuously improving my programming skills.
+i'm a software engineering student at the university of new brunswick.
 
-Currently, I'm focused on building strong foundations in software development while exploring AI, data analytics, and practical real-world applications.
+i like building software, making sense of data, exploring ai, and picking up whatever skills a project demands. most of the projects here started because i wanted to learn something new or thought "this would be cool to build."
 
----
+## currently
 
-## Currently Learning
+* building with java and python
+* learning backend development
+* exploring data analytics and machine learning
+* getting better with git and github
 
-- Python
-- C Programming
-- Git & GitHub
-- Software Fundamentals & Problem Solving
-- AI & Data Analytics Fundamentals
+## what you'll find here
 
----
+* software projects
+* things i built while learning
+* experiments that somehow turned into real projects
+* code that gets a little better every time i come back to it
 
-## Current Goals
+## current goals
 
-- Build practical and meaningful projects
-- Strengthen problem-solving skills
-- Explore AI and data-related technologies
-- Improve as a software developer through consistency and hands-on learning
-- Create projects that combine technology with real-world interests
+* build projects i'd actually use
+* get better at solving problems
+* learn something new with every project
+* keep shipping instead of chasing perfection
 
----
+## tech
 
-## Tech Stack
+```text
+java • python • sql • c
 
-- Python
-- Java
-- C
-- Git
-- GitHub
-- VS Code
+git • github • vscode
+```
 
----
+## outside of code
 
-## Current Focus
+football, premier league, the gym, and occasionally touching grass.
 
-Currently building beginner projects to strengthen my programming foundations and gain hands-on experience with software development, AI, and data-related technologies.
+## let's connect
 
-Upcoming projects will focus on:
-- AI
-- Data analytics
-- Automation
-- Practical software tools
+💼 linkedin → linkedin.com/in/aliakhtar10
 
----
-
-## Interests
-
-- Artificial Intelligence
-- Data Analytics
-- Software Development
-- Problem Solving
-- Fitness & Sports
-
----
-
-## Connect With Me
-
-- LinkedIn: [aliakhtar10](https://www.linkedin.com/in/aliakhtar10)
-- Email: ali.akhtar2006@unb.ca
+📧 [ali.akhtar2006@unb.ca](mailto:ali.akhtar2006@unb.ca)
