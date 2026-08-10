@@ -1,44 +1,96 @@
-# hey, i'm ali 
+# hey, i'm ali 👋
 
-i'm a software engineering student at the university of new brunswick.
+i'm a software engineering student at the **university of new brunswick** 🇨🇦
 
-i like building software, making sense of data, exploring ai, and picking up whatever skills a project demands. most of the projects here started because i wanted to learn something new or thought "this would be cool to build."
+i like building software, working with data, exploring ai, and learning new technologies through projects.
 
-## currently
+---
 
-* building with java and python
-* learning backend development
-* exploring data analytics and machine learning
-* getting better with git and github
+## 🚀 currently
 
-## what you'll find here
+- ☕ building and learning with **java**
+- 🐍 using **python** for software, data, and machine learning
+- ⚙️ learning **backend development**
+- 📊 exploring **data analytics & machine learning**
+- 🧠 strengthening my programming and computer science fundamentals
+- 🔨 turning ideas into projects instead of leaving them in my notes
 
-* software projects
-* things i built while learning
-* experiments that somehow turned into real projects
-* code that gets a little better every time i come back to it
+---
 
-## current goals
+## 🛠️ tech
 
-* build projects i'd actually use
-* get better at solving problems
-* learn something new with every project
-* keep shipping instead of chasing perfection
+### 💻 languages
 
-## tech
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-```text
-java • python • sql • c
+### 📊 data & machine learning
 
-git • github • vscode
-```
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## outside of code
+### 🔧 tools
 
-football, premier league, the gym, and occasionally touching grass.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## let's connect
+---
 
-💼 linkedin → linkedin.com/in/aliakhtar10
+## 🚧 what i'm building
 
-📧 [ali.akhtar2006@unb.ca](mailto:ali.akhtar2006@unb.ca)
+### ⚽ european football player analytics
+**python · sql · power bi**
+
+an end-to-end data analytics project exploring player performance across europe's top five football leagues.
+
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/aliakhtar1010/european-football-player-analytics)
+
+### 🎓 degreepilot
+**java**
+
+a university degree planner for tracking completed courses, prerequisites, eligibility, and future semesters.
+
+> currently building
+
+### ⚽ matchday tracker
+**python · csv**
+
+a command-line app for recording football match performances and tracking goals, assists, results, and averages.
+
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/aliakhtar1010/matchday-tracker)
+
+---
+
+## 🎯 current goals
+
+- build projects i'd actually use
+- strengthen my programming fundamentals
+- explore different areas of software engineering
+- get better at solving problems
+- learn something new with every project
+- keep building and improving
+
+---
+
+## ⚽ outside of code
+
+playing football, watching the premier league, and probably watching a series on netflix.
+
+---
+
+## 🤝 let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliakhtar10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakhtar10)
+[![Email](https://img.shields.io/badge/Email-ali.akhtar2006%40unb.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.akhtar2006@unb.ca)
+
+---
+
+<p align="center">
+  <i>still learning. still building.</i>
+</p>
