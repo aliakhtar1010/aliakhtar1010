@@ -1,96 +1,49 @@
-# hey, i'm ali 👋
+# Muhammad Ali Akhtar
 
-i'm a software engineering student at the **university of new brunswick** 🇨🇦
+software engineering student at the university of new brunswick.
 
-i like building software, working with data, exploring ai, and learning new technologies through projects.
+mostly working with java and python right now. interested in software engineering, data, and machine learning.
 
----
+## projects
 
-## 🚀 currently
+### european football player analytics
 
-- ☕ building and learning with **java**
-- 🐍 using **python** for software, data, and machine learning
-- ⚙️ learning **backend development**
-- 📊 exploring **data analytics & machine learning**
-- 🧠 strengthening my programming and computer science fundamentals
-- 🔨 turning ideas into projects instead of leaving them in my notes
+`python` `sql` `power bi`
 
----
+analysis of player performance across europe's top five football leagues using python, sql, and power bi.
 
-## 🛠️ tech
+[view project](https://github.com/aliakhtar1010/european-football-player-analytics)
 
-### 💻 languages
+### degreepilot
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+`java` `spring boot`
 
-### 📊 data & machine learning
+building a degree planning system for tracking courses, prerequisites, and course eligibility.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### premier league match predictor
 
-### 🔧 tools
+`python` `scikit-learn`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+machine learning project for predicting premier league match outcomes using historical match data.
 
----
+*coming soon*
 
-## 🚧 what i'm building
+### matchday tracker
 
-### ⚽ european football player analytics
-**python · sql · power bi**
+`python`
 
-an end-to-end data analytics project exploring player performance across europe's top five football leagues.
+a small cli app i made to track my own football matches, goals, assists, minutes, and results.
 
-[![Repo](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/aliakhtar1010/european-football-player-analytics)
+[view project](https://github.com/aliakhtar1010/matchday-tracker)
 
-### 🎓 degreepilot
-**java**
+## tech
 
-a university degree planner for tracking completed courses, prerequisites, eligibility, and future semesters.
+`java` `python` `sql` `pandas` `scikit-learn` `spring boot` `power bi` `git`
 
-> currently building
+## outside of code
 
-### ⚽ matchday tracker
-**python · csv**
+football, cricket, food, and whatever series i'm watching at the time.
 
-a command-line app for recording football match performances and tracking goals, assists, results, and averages.
+## links
 
-[![Repo](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/aliakhtar1010/matchday-tracker)
-
----
-
-## 🎯 current goals
-
-- build projects i'd actually use
-- strengthen my programming fundamentals
-- explore different areas of software engineering
-- get better at solving problems
-- learn something new with every project
-- keep building and improving
-
----
-
-## ⚽ outside of code
-
-playing football, watching the premier league, and probably watching a series on netflix.
-
----
-
-## 🤝 let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliakhtar10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakhtar10)
-[![Email](https://img.shields.io/badge/Email-ali.akhtar2006%40unb.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.akhtar2006@unb.ca)
-
----
-
-<p align="center">
-  <i>still learning. still building.</i>
-</p>
+[linkedin](https://linkedin.com/in/aliakhtar10) · [email](mailto:ali.akhtar2006@unb.ca)
