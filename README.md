@@ -2,7 +2,7 @@
 
 software engineering student at the **university of new brunswick** 🇨🇦
 
-mostly working with java and python rn. building projects to figure out what areas of cs i actually like.
+working across software engineering, data, and machine learning.
 
 ---
 
@@ -20,6 +20,7 @@ mostly working with java and python rn. building projects to figure out what are
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### tools
@@ -27,32 +28,31 @@ mostly working with java and python rn. building projects to figure out what are
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## what i'm working on
+## featured projects
+
+### 🎬 nextup
+**python · pandas · numpy · scikit-learn**
+
+personalized movie recommendation engine built on 100k+ movielens ratings, comparing popularity, content-based, and collaborative filtering with top-n evaluation.
+
+[![Repo](https://img.shields.io/badge/view_project-181717?style=flat-square&logo=github)](https://github.com/aliakhtar1010/nextup)
 
 ### ⚽ european football player analytics
-**python · sql · power bi**
+**python · pandas · sql · power bi**
 
-player performance analysis across europe's top five leagues.
+end-to-end player performance analysis across europe's top five leagues, from data cleaning and feature engineering to sql analysis and an interactive power bi dashboard.
 
 [![Repo](https://img.shields.io/badge/view_project-181717?style=flat-square&logo=github)](https://github.com/aliakhtar1010/european-football-player-analytics)
 
-### 🎓 degreepilot
-**java · spring boot**
+### ⚽ gameon
+**full stack · in progress**
 
-a degree planning system for courses, prerequisites, eligibility, and eventually semester planning.
+building an app for finding, creating, and joining local pickup games.
 
 `in progress`
-
-### ⚽ premier league match predictor
-**python · scikit-learn**
-
-predicting premier league match outcomes using historical match data and machine learning.
-
-`coming soon`
 
 ### ⚽ matchday tracker
 **python**
