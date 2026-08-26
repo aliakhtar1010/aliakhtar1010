@@ -4,22 +4,17 @@
 
 ### Software Engineering · Data · Machine Learning
 
-Software Engineering student at the **University of New Brunswick** 🇨🇦  
-building projects across software, data, and machine learning.
+Software Engineering student at the **University of New Brunswick** 🇨🇦
 
-Currently building **GameOn** — a full-stack application for finding, creating, and joining local pickup games. ⚽
+Building across **software engineering, data, and machine learning** — from ML pipelines and recommendation systems to full-stack applications.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliakhtar10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakhtar10)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.akhtar2006@unb.ca)
-[![GitHub](https://img.shields.io/badge/GitHub-aliakhtar1010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliakhtar1010)
+Currently building **GameOn**: a full-stack application for finding, creating, and joining local pickup games. ⚽
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -60,7 +55,7 @@ Built an end-to-end **content refresh ranking pipeline** on **30,000 anonymized 
 
 Evaluated on **6,163 held-out pages from 7 unseen clients** with zero client overlap, achieving **0.75 Precision@20** and **0.72 Precision@50** with Logistic Regression.
 
-Built a human-in-the-loop action engine that ranked **6,163 pages** and surfaced **818 higher-risk candidates**, while auditing features for leakage and analyzing false positives and negatives.
+Built a human-in-the-loop action engine ranking **6,163 pages** and surfacing **818 higher-risk candidates**, while auditing features for leakage and analyzing false positives and negatives.
 
 [![View Work](https://img.shields.io/badge/View_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliakhtar1010/search-ranking-ml)
 
@@ -74,7 +69,7 @@ Built a human-in-the-loop action engine that ranked **6,163 pages** and surfaced
 
 ### 🎬 NextUp
 
-**Movie Recommendation Engine**
+**Personalized Movie Recommendation Engine**
 
 `Python` `Pandas` `NumPy` `scikit-learn`
 
@@ -98,7 +93,7 @@ Built **3 recommendation models** across **100,836 MovieLens ratings**, **610 us
 
 Transformed **2,854 player records** across **165 raw features** and Europe's top **5 leagues** into a cleaned **47-feature dataset**.
 
-Engineered **13 performance metrics** and built a **3-page interactive Power BI dashboard** with 900-minute-qualified rankings.
+Engineered **13 performance metrics** and built a **3-page interactive Power BI dashboard** with DAX measures and 900-minute-qualified player rankings.
 
 <br>
 
@@ -108,23 +103,15 @@ Engineered **13 performance metrics** and built a **3-page interactive Power BI 
 </tr>
 </table>
 
-### 🎮 GameOn · `In Progress`
+### 🎮 GameOn
 
-> A full-stack application for finding, creating, and joining local pickup games.
+**Full-Stack Pickup Sports Platform · In Progress**
 
-Building GameOn around a simple problem: **finding people to play with and organizing local games shouldn't be difficult.**
+> Finding people to play with and organizing local games shouldn't be difficult.
+
+Building an application for **finding, creating, and joining local pickup games**, combining my interest in software engineering with something I actually care about — football.
 
 ![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=flat-square)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aliakhtar1010&theme=transparent&hide_border=true)
-
-</div>
 
 ---
 
@@ -136,6 +123,9 @@ Building GameOn around a simple problem: **finding people to play with and organ
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakhtar10)
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliakhtar10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliakhtar10)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.akhtar2006@unb.ca)
 
 </div>
